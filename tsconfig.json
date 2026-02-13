@@ -26,15 +26,8 @@
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
 
-    // Type Checking - Strict Mode (all enabled)
+    // Type Checking - Strict Mode (enables all strict type checking options)
     "strict": true,
-    "noImplicitAny": true,
-    "strictNullChecks": true,
-    "strictFunctionTypes": true,
-    "strictBindCallApply": true,
-    "strictPropertyInitialization": true,
-    "noImplicitThis": true,
-    "alwaysStrict": true,
 
     // Additional Checks
     "noUnusedLocals": true,
