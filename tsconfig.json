@@ -15,10 +15,6 @@
 
     // Emit
     "noEmit": true,
-    "sourceMap": true,
-    "declaration": true,
-    "declarationMap": true,
-    "removeComments": false,
 
     // Interop Constraints
     "isolatedModules": true,
